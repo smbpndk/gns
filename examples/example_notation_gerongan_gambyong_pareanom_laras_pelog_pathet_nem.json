@@ -1,0 +1,195 @@
+{
+    "version": "v0.0.1",
+    "licence": "MIT",
+    "sections": [
+        {
+            "type": "title",
+            "contents": {
+                "type": "Gerongan",
+                "name": "Gambyong Pareanom",
+                "laras": "Pelog",
+                "pathet": "Nem"
+            }
+        },
+        {
+            "type": "buka",
+            "lines": [
+                {
+                    "gatra": [
+                        {
+                            "content": [
+                                {
+                                    "number": "dot",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "dot",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "A",
+            "lines":[
+                {
+                    "gatra":[
+                        {
+                            "content": [
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+
+                        {
+                            "content": [
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+
+                        {
+                            "content": [
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

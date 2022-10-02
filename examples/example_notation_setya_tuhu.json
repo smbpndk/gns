@@ -1,0 +1,508 @@
+{
+    "version": "v0.0.1",
+    "licence": "MIT",
+    "sections": [
+        {
+            "type": "title",
+            "contents": {
+                "type": "Langgam",
+                "name": "Setya Tuhu",
+                "laras": "Pelog",
+                "pathet": "Nem"
+            }
+        },
+        {
+            "type": "TODO: // Add section type",
+            "lines": [
+                {
+                    "prefix": "[",
+                    "suffix": "",
+                    "gatra": [
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "4",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": [
+                                        "kenong"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": ".",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": [
+                                        "top_dot"
+                                    ]
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": [
+                                        "kempul",
+                                        "top_dot"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "1",
+                                    "attributes": [
+                                        "top_dot"
+                                    ]
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": [
+                                        "gong_gede"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "prefix": "",
+                    "suffix": "",
+                    "gatra": [
+                        {
+                            "content": [
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "4",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": [
+                                        "kenong"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": ".",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": [
+                                        "top_dot"
+                                    ]
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": [
+                                        "kempul",
+                                        "top_dot"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": [
+                                        "gong_gede"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "prefix": "",
+                    "suffix": "",
+                    "gatra": [
+                        {
+                            "content": [
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": [
+                                        "top_dot"
+                                    ]
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": [
+                                        "kenong"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": [
+                                        "top_dot"
+                                    ]
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": [
+                                        "kempul",
+                                        "top_dot"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": ".",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": [
+                                        "top_dot"
+                                    ]
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": [
+                                        "gong_gede"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "prefix": "",
+                    "suffix": "",
+                    "gatra": [
+                        {
+                            "content": [
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "4",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": [
+                                        "kenong"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": ".",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": [
+                                        "top_dot"
+                                    ]
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": [
+                                        "kempul",
+                                        "top_dot"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": [
+                                        "gong_gede"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ompak",
+            "lines": [
+                {
+                    "prefix": "",
+                    "suffix": "]",
+                    "gatra": [
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "4",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": [
+                                        "kenong"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": ".",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": [
+                                        "top_dot"
+                                    ]
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": [
+                                        "kempul",
+                                        "top_dot"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "1",
+                                    "attributes": [
+                                        "top_dot"
+                                    ]
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": [
+                                        "gong_gede"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
