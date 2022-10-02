@@ -1,0 +1,53 @@
+{
+    "version": "v0.0.1",
+    "licence": "MIT",
+    "sections": [
+        {
+            "type": "title",
+            "contents": {
+                "type": "Jineman",
+                "name": "Mari Kangen",
+                "laras": "Slendro",
+                "pathet": "Sanga"
+            }
+        },
+        {
+            "type": "celuk",
+            "lines": [
+                {
+                    "gatra": [
+                        {
+
+                        },
+                        {
+   
+                        },
+                        {
+ 
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": ".",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": ".",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": ".",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": ["kempul"]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
