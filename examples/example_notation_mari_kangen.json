@@ -17,13 +17,13 @@
                 {
                     "gatra": [
                         {
-
+                            "content": []
                         },
                         {
-   
+                            "content": []
                         },
                         {
- 
+                            "content": []
                         },
                         {
                             "content": [
@@ -41,6 +41,254 @@
                                 },
                                 {
                                     "number": "2",
+                                    "attributes": ["kempul"]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ngelik",
+            "lines": [
+                {
+                    "gatra": [
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": ["kempul"]
+                                }]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": ["kempul"]
+                                }]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": ["kempul"]
+                                }]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": ["kempul"]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "gatra": [
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": ["kempul"]
+                                }]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": ["kempul"]
+                                }]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": ["kempul"]
+                                }]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": ["kempul"]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "gatra": [
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": ["kempul"]
+                                }]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
+                                    "attributes": ["kempul"]
+                                }]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "5",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": ["kempul"]
+                                }]
+                        },
+                        {
+                            "content": [
+                                {
+                                    "number": "3",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "2",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "1",
+                                    "attributes": []
+                                },
+                                {
+                                    "number": "6",
                                     "attributes": ["kempul"]
                                 }
                             ]
